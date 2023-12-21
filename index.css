@@ -1,0 +1,165 @@
+.eclipse-gaming,
+.proyectos1 {
+  position: absolute;
+  line-height: 105%;
+  text-transform: uppercase;
+}
+.proyectos1 {
+  top: 8.82%;
+  left:15.7%;
+  font-size: var(--font-size-45xl);
+  letter-spacing: -0.01em;
+  color: var(--gg-colors);
+}
+.eclipse-gaming {
+  top: 758px;
+  left: calc(50% - 622px);
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 466px;
+  cursor: pointer;
+}
+.mask-group-icon {
+  position: absolute;
+  top: 334.3px;
+  left: 300px;
+  width: 640px;
+  height: 391.6px;
+  object-fit: cover;
+}
+.capa-1-icon,
+.capa-1-icon1 {
+  position: absolute;
+  overflow: hidden;
+  object-fit: cover;
+}
+.capa-1-icon {
+  height: 0.85%;
+  width: 1.15%;
+  top: 30.54%;
+  right: 83.23%;
+  bottom: 68.61%;
+  left: 15.63%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.capa-1-icon1 {
+  top: 40px;
+  left: 1712px;
+  width: 99px;
+  height: 69px;
+}
+.fondo-2-icon {
+  position: absolute;
+  top: 1432px;
+  left: calc(50% - 1015px);
+  width: 2031px;
+  height: 1050px;
+  object-fit: contain;
+}
+.proyectos-child {
+  position: absolute;
+  top: 1734px;
+  left: calc(50% + 959px);
+  background: linear-gradient(180deg, rgba(16, 14, 19, 0), #100e13);
+  width: 1918px;
+  height: 343px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.capa-1-icon2,
+.capa-1-icon3,
+.capa-1-icon4 {
+  position: absolute;
+  top: 2177px;
+  left: 753px;
+  width: 15px;
+  height: 14px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.capa-1-icon3,
+.capa-1-icon4 {
+  top: 2218px;
+}
+.capa-1-icon4 {
+  top: 2259px;
+}
+.tu-tambin-puedes {
+  margin: 0;
+}
+.tu-tambin-puedes-container {
+  position: absolute;
+  width: 21.93%;
+  top: 79.21%;
+  left: 39.01%;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.01em;
+  line-height: 105%;
+  text-transform: uppercase;
+  display: inline-block;
+  color: var(--gg);
+}
+.escrbenos-a {
+  font-weight: 500;
+  font-family: var(--font-space-grotesk);
+  color: var(--gg);
+}
+.holaestudioggcl {
+  text-decoration: underline;
+}
+.y-sguenos-en {
+  margin: 0;
+  color: var(--gg);
+}
+.escrbenos-a-holaestudioggcl-container {
+  position: absolute;
+  top: 2087px;
+  left: calc(50% - 211px);
+  line-height: 25px;
+  font-family: var(--font-space-grotesk);
+}
+.instagram {
+  margin-block-start: 0;
+  margin-block-end: 20px;
+}
+.instagram-linkedin-twitter-container {
+  position: absolute;
+  top: 2173px;
+  left: calc(50% - 184px);
+  line-height: 21px;
+  font-family: var(--font-space-grotesk);
+  color: var(--gg);
+}
+.capa-1-icon5,
+.capa-1-icon6 {
+  position: absolute;
+  top: 1966px;
+  left: 300px;
+  width: 384px;
+  height: 230px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.capa-1-icon6 {
+  height: 2.9%;
+  width: 6.3%;
+  top: 1.57%;
+  right: 90.52%;
+  bottom: 95.53%;
+  left: 3.18%;
+  max-width: 100%;
+  max-height: 100%;
+  cursor: pointer;
+}
+.proyectos {
+  position: relative;
+  background-color: var(--color-gray);
+  width: 100%;
+  height: 2482px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-greenyellow);
+  font-family: var(--font-tomorrow);
+}

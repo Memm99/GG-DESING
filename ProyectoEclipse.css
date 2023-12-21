@@ -1,0 +1,210 @@
+.branding-e-identidad1,
+.eclipse-gaming2 {
+  position: absolute;
+  left: calc(50% - 660px);
+  line-height: 105%;
+  text-transform: uppercase;
+}
+.eclipse-gaming2 {
+  top: 4.75%;
+  font-size: var(--font-size-45xl);
+  letter-spacing: -0.01em;
+  color: var(--gg-colors);
+}
+.branding-e-identidad1 {
+  top: 291px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 466px;
+}
+.eclipse-gaming-es {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.se-realizo-el {
+  margin: 0;
+}
+.comenzamos-con-un-container,
+.eclipse-gaming-es-container {
+  position: absolute;
+  top: 1079px;
+  left: calc(50% + 20px);
+  font-size: var(--font-size-base);
+  line-height: 21px;
+  font-weight: 300;
+  font-family: var(--font-space-grotesk);
+  color: var(--color-white);
+  display: inline-block;
+  width: 640px;
+}
+.comenzamos-con-un-container {
+  top: 2260px;
+  width: 637px;
+}
+.desarrollo-del-proyecto,
+.descripcin-general {
+  position: absolute;
+  top: 1079px;
+  left: calc(50% - 660px);
+  line-height: 105%;
+  text-transform: uppercase;
+  display: inline-block;
+  color: var(--color-greenyellow);
+  width: 640px;
+}
+.desarrollo-del-proyecto {
+  top: 2260px;
+  left: calc(50% - 661px);
+}
+.fondo-2-icon2 {
+  position: absolute;
+  top: 3563px;
+  left: calc(50% - 1015px);
+  width: 2031px;
+  height: 1050px;
+  object-fit: contain;
+}
+.capa-1-icon15,
+.capa-1-icon16,
+.capa-1-icon17 {
+  position: absolute;
+  top: 4308px;
+  left: 753px;
+  width: 15px;
+  height: 14px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.capa-1-icon16,
+.capa-1-icon17 {
+  top: 4346px;
+}
+.capa-1-icon17 {
+  top: 4387px;
+}
+.tu-tambin-puedes-container2 {
+  position: absolute;
+  width: 21.93%;
+  top: 88.81%;
+  left: 39.01%;
+  letter-spacing: -0.01em;
+  line-height: 105%;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.escrbenos-a2 {
+  font-weight: 500;
+  font-family: var(--font-space-grotesk);
+  color: var(--gg);
+}
+.holaestudioggcl2 {
+  text-decoration: underline;
+}
+.y-sguenos-en2 {
+  margin: 0;
+  color: var(--gg);
+}
+.escrbenos-a-holaestudioggcl-container2 {
+  position: absolute;
+  top: 4218px;
+  left: calc(50% - 211px);
+  font-size: var(--font-size-xl);
+  line-height: 25px;
+  color: var(--color-greenyellow);
+  font-family: var(--font-space-grotesk);
+}
+.instagram2 {
+  margin-block-start: 0;
+  margin-block-end: 20px;
+}
+.instagram-linkedin-twitter-container2 {
+  position: absolute;
+  top: 4304px;
+  left: calc(50% - 184px);
+  font-size: var(--font-size-xl);
+  line-height: 21px;
+  font-family: var(--font-space-grotesk);
+}
+.proyecto-eclipse-child {
+  position: absolute;
+  top: 3865px;
+  left: calc(50% + 959px);
+  background: linear-gradient(180deg, rgba(16, 14, 19, 0), #100e13);
+  width: 1918px;
+  height: 343px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.capa-1-icon18 {
+  position: absolute;
+  top: 4097px;
+  left: 300px;
+  width: 384px;
+  height: 230px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.mesa-de-trabajo-62-1 {
+  top: 383px;
+  left: 300px;
+  width: 1321px;
+  height: 627px;
+}
+.fotografia-1-icon,
+.mesa-de-trabajo-62-1,
+.zz-1-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.fotografia-1-icon {
+  top: 1322px;
+  left: 301px;
+  width: 639px;
+  height: 865px;
+}
+.zz-1-icon {
+  top: 2530px;
+  left: calc(50% - 661px);
+  width: 1322px;
+  height: 816px;
+}
+.capa-1-icon19,
+.capa-1-icon20,
+.mesa-de-trabajo-63-1 {
+  position: absolute;
+  top: 1321px;
+  left: 980px;
+  width: 640px;
+  height: 866px;
+  object-fit: cover;
+}
+.capa-1-icon19,
+.capa-1-icon20 {
+  top: 40px;
+  left: 1712px;
+  width: 99px;
+  height: 69px;
+  overflow: hidden;
+}
+.capa-1-icon20 {
+  height: 1.56%;
+  width: 6.3%;
+  top: 0.85%;
+  right: 90.52%;
+  bottom: 97.59%;
+  left: 3.18%;
+  max-width: 100%;
+  max-height: 100%;
+  cursor: pointer;
+}
+.proyecto-eclipse {
+  position: relative;
+  background-color: var(--color-gray);
+  width: 100%;
+  height: 4613px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--gg);
+  font-family: var(--font-tomorrow);
+}
